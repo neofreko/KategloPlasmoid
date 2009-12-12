@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Kateglo Engine
+Comment=Kateglo Engine
+Type=Service
+Icon=dictionary
+ServiceTypes=Plasma/DataEngine
+X-Plasma-API=python
+ 
+X-KDE-PluginInfo-Author=Akhmad Fathonih
+X-KDE-PluginInfo-Email=akhmadf@gmail.com
+X-KDE-PluginInfo-Name=kateglo-engine
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=http://kateglo.com
+X-KDE-PluginInfo-Category=Internet
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Name=Kateglo
+Comment=Kateglo plasmoid
+Icon=chronometer
+ 
+Type=Service
+X-KDE-ServiceTypes=Plasma/Applet
+ 
+X-Plasma-API=javascript
+X-Plasma-MainScript=code/main.js
+X-Plasma-DefaultSize=200,100
+ 
+X-KDE-PluginInfo-Author=Akhmad Fathonih 
+X-KDE-PluginInfo-Email=akhmadf@gmail.com
+X-KDE-PluginInfo-Name=kateglo
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=http://kateglo.com
+X-KDE-PluginInfo-Category=Internet
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
